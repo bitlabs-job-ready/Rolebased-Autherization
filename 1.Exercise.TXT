@@ -1,0 +1,8 @@
+1.Create model class with two variables,
+   username and password.
+
+perform below operations.
+-Perform  Authentication and Authorization based on in memory data ​.
+-Perform  Authentication and Authorization based on, Database provided data.​
+
+​
